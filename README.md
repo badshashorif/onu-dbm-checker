@@ -67,5 +67,16 @@ onu-dbm-checker/ ├── collector/ ├── onu_webpanel/ ├── webpanel
 - ONT Authentication Status Monitoring.
 - Real-time WebSocket Updates.
 
+## 📦 Deployment Notes:
+Python version: Python 3.10+
+
+Django version: Django 4.x
+
+Database: MySQL 8.0+
+
+Server: Ubuntu 22.04 LTS recommended
+
+
+
 ## License
 MIT License
