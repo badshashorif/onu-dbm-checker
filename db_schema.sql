@@ -1,0 +1,3 @@
+CREATE DATABASE onu_checker;
+USE onu_checker;
+CREATE TABLE onu_data (id INT AUTO_INCREMENT PRIMARY KEY, pppoe_id VARCHAR(255), onu_mac VARCHAR(255), dbm_value FLOAT, timestamp TIMESTAMP DEFAULT CURRENT_TIMESTAMP);

@@ -1,0 +1,8 @@
+olt_devices:
+  - ip: 10.10.10.1
+    username: admin
+    password: pass
+mikrotik_devices:
+  - ip: 10.10.20.1
+    username: admin
+    password: pass
